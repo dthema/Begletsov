@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Developers Life Posts</string>
+    <string name="tab_latest">Последние</string>
+    <string name="tab_top">Лучшие</string>
+    <string name="tab_hot">Горячие</string>
+    <string name="previous_post">Previous Post</string>
+    <string name="next_post">Next Post</string>
+</resources>
